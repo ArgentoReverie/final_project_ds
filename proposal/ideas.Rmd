@@ -3,16 +3,15 @@ title: "Project Proposal"
 output: html_notebook
 ---
 
-(notice that you can reuse some of the sections below for the final project report)
 
 ## Section 1. Introduction
 
-Include a brief **introduction or motivation** here
+I have decided to look at a dataset containing hollywood movies and their different ratings because I enjoy watching movies with my family and enjoy knowing alot about what to expect from movies. 
 
 ## Section 2. Data Analysis Plan
 
-List any **initial questions** you plan to explore in this project. 
+Is there a clear connection between different reviewers ratings and the chance a movie is bought in a household, as well as does a movie runtime dirrectly effect the ratings it recieves. 
 
 ## Section 3. Data
 
-Include a brief **description of your dataset** (source, available attributes, format, etc.)
+The dataset im using is https://github.com/reisanar/datasets/blob/master/HollywoodMovies.csv because it provides reviews from multiple different movie companies and the scores provided by audiences as well as relevent information such as genre and Box office average during the opening week of movies. 

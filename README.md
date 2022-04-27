@@ -4,11 +4,9 @@
 
 Team members: 
 
-- Student 1: [Jonathan Endricks}(mailto:jendricks1936s@floridapoly.edu)
+- Student 1: [Jonathan Endricks](mailto:jendricks1936s@floridapoly.edu)
 
-- Student 2: [Student name](mailto:student2@floridapoly.edu)
 
-- Student 3: [Student name](mailto:student3@floridapoly.edu)
 
 
 **Summary**

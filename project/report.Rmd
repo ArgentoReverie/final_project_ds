@@ -3,7 +3,7 @@ title: "Final Report for Intro to Data Science"
 output: html_notebook
 ---
 
-In this report I will be reporting on the fact that box office numbers have adirect connection to genre and moie ratings.
+In this report I will be reporting on the fact that box office numbers have adirect connection to genre and movie ratings.
 judging from the data in https://github.com/ArgentoReverie/final_project_ds/blob/master/data/IMDB_movies.csv we can see a small connection between action movies and ratings as action movies seem to have higher ratings on average compared to other genres of movies. 
 revenue of movies does not seem to have a strong connection to ratings however higher ratings on average can cause a higher revenue but the numbers seem to be sporadic and not easy to predict off of ratings and revenue alone. 
 The reason there is not a strong connection between ratings and revenue is due to the fact that often large companies will release lower than average movies that still recieve large amounts of revenue due to having a large fan base. 

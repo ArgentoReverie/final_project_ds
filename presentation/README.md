@@ -2,4 +2,4 @@
 
 Here is a copy of the presentation used to discuss the results of the final project. 
 
-(You can include a `.pptx` or `.pdf` version of your presentation here)
+[Final Statistics Project Joantahan Endricks.pptx](https://github.com/ArgentoReverie/final_project_ds/files/8575528/Final.Statistics.Project.Joantahan.Endricks.pptx)

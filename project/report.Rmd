@@ -3,11 +3,10 @@ title: "Final Report for Intro to Data Science"
 output: html_notebook
 ---
 
-This is where the final project report write-up goes. 
-
-
-Before you submit, make sure everything runs as expected.
-
-You can add sections as you see fit. Make sure you have a section called "Introduction" at the beginning and a section called "Conclusion" at the end. The rest is up to you!
-
-_Make use of your knowledge of Markdown to appropriately typeset this report!_
+In this report I will be reporting on the fact that box office numbers have adirect connection to genre and moie ratings.
+judging from the data in https://github.com/ArgentoReverie/final_project_ds/blob/master/data/IMDB_movies.csv we can see a small connection between action movies and ratings as action movies seem to have higher ratings on average compared to other genres of movies. 
+revenue of movies does not seem to have a strong connection to ratings however higher ratings on average can cause a higher revenue but the numbers seem to be sporadic and not easy to predict off of ratings and revenue alone. 
+The reason there is not a strong connection between ratings and revenue is due to the fact that often large companies will release lower than average movies that still recieve large amounts of revenue due to having a large fan base. 
+While doing my research I did notice a strong connection between directors who are famous and revenues/ratings this is likely due to the fact that the director is more famous and has earned the respect of their fan base with the quality films they have produced.
+I have also noticed that their is connection between popular actors such as Chris Patt and revnue/ratings for movies.
+So from thye data that i have seen we can easily connevct that directors and actors are the main factor that determines the rating and revenue of the movies genre also seems to have a slight effect due to the fact that the fan base of different directors prefer different genres of movies.

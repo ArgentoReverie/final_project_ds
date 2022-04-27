@@ -1,10 +1,10 @@
 # Final Project for Intro to Data Science
 
-## Term YYYY
+## Term 2022
 
 Team members: 
 
-- Student 1: [Rei Sanchez-Arias](mailto:rsanchezarias@floridapoly.edu)
+- Student 1: [Jonathan Endricks}(mailto:jendricks1936s@floridapoly.edu)
 
 - Student 2: [Student name](mailto:student2@floridapoly.edu)
 
